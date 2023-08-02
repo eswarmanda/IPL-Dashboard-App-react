@@ -1,0 +1,27 @@
+.team-card {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  background-color: #ffffff33;
+  width: 170px;
+  padding: 20px;
+  margin: 5px;
+  height: 60px;
+  border-radius: 10px;
+  border-width: 1px;
+  border-color: #ffffff;
+  border-style: solid;
+  text-decoration: none;
+}
+.li-card {
+  list-style-type: none;
+}
+.logo-img {
+  height: 30px;
+  width: 30px;
+  margin: 10px;
+}
+.team-name {
+  font-size: x-small;
+  color: #ffffff;
+}

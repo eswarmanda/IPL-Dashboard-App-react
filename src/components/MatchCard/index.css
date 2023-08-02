@@ -1,0 +1,28 @@
+.match-card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+  height: 200px;
+  width: 112px;
+  margin: 5px;
+  background-color: black;
+  color: white;
+  border-radius: 5px;
+  padding: 10px;
+  font-family: Bree Serif;
+}
+.img-logo-card {
+  height: 40px;
+}
+.competing-team {
+  font-size: x-small;
+  text-align: center;
+}
+.result {
+  font-size: x-small;
+  text-align: center;
+}
+.status {
+  font-size: smaller;
+}

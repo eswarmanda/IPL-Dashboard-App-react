@@ -1,0 +1,35 @@
+.latest-match-details {
+  height: 220px;
+  width: 356px;
+  color: #ffffff;
+  background-color: black;
+  display: flex;
+  align-items: center;
+  border-radius: 5px;
+  margin: 5px;
+  font-family: Bree Serif;
+  padding: 5px;
+}
+.team-logo {
+  height: 50px;
+}
+.left-match-details {
+  font-size: x-small;
+  width: 50%;
+  padding: 5px;
+}
+.logo-card {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.right-match-details {
+  font-size: x-small;
+  width: 46%;
+  padding: 5px;
+  text-align: right;
+}
+p1 {
+  font-weight: 700;
+  font-size: 12px;
+}
